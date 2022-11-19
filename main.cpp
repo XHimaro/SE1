@@ -12,5 +12,6 @@ int main()
     cout << "Sum: " << x + y << endl;
     cout << "Diff: " << x - y << endl;
     cout << "Mult: " << x * y << endl;
+    cout << "Div: " << x / y << endl;
     return 0;
 }
