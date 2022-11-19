@@ -1,4 +1,5 @@
 //This program is just an example one under VCS
+//Author: Lenko Egor, KE-317, 2022 year
 #include <iostream>
 
 using namespace std;
